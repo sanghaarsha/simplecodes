@@ -1,0 +1,5 @@
+This repo contains some of my random and simple C and C++ codes.
+Everything here are Command Line Interface.
+GUI programs are uploaded to my other repos.
+
+Last Edited: 26/01/2020
