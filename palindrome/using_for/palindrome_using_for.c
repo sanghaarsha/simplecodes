@@ -6,7 +6,7 @@ void  main()
     int i,num,rev,sum=0,ini;
     printf("Enter a number:\n");
     scanf("%d",&num);
-    ini=num;
+    ini=num; 
 
     for(i=num;i>0;){
         rev=i%10;
