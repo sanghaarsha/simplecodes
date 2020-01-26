@@ -5,7 +5,7 @@ void main()
     int i,num,rev,sum=0,ini;
     printf("Enter The Number:\n");
     scanf("%d",&num);
-    ini=num;
+    ini=num; 
 
     while(num)
     {
