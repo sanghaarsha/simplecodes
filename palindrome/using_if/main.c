@@ -6,7 +6,7 @@ void main()
     int i,num,rev=0,sum,ini;
     printf("Enter a number:\n");
     scanf("%d",&num);
-    ini=num;
+    ini=num; 
 
     loop:
     if(num>0){
