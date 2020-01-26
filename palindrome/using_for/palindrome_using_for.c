@@ -20,4 +20,5 @@ void  main()
     else
     printf("\n%d is not a palindrome",ini);
      getch();
+
 }
